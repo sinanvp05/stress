@@ -94,7 +94,7 @@ const Contact = () => {
           className='space-y-8 p-8 bg-white shadow-2xl rounded-md'>
             <h3 className='text-2xl font-bold mb-4'>Book Appointment</h3>
             <form
-              action="https://getform.io/f/agdpwozb"
+              action="https://getform.io/f/aroydvwb"
               method="POST"
               onSubmit={handleSubmit}
               className='space-y-8'
